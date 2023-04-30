@@ -1,0 +1,61 @@
+#Primer ejercicio formulario preguntas
+print('Hola, bienvenido!')
+
+nombre= input('¿Cuál es tu nombre?')
+print(nombre)
+
+nombre_upper= nombre.upper
+nombre_lower= nombre.lower
+#print('Este es tu nombre completo en mayúsculas: {nombre_upper}')
+#print('Este es tu nombre completo en minúsculas: {nombre_lower}')
+
+
+apellido= input('¿Cuál es tu primer apellido?')
+print(apellido)
+
+
+apellido2= input('¿Cuál es tu segundo apellido?')
+print(apellido2)
+
+
+
+
+nacimiento= input('¿En qué año naciste?')
+print(nacimiento)
+
+
+
+
+mesnacimiento= input('¿En qué mes y día naciste? mm-dd')
+print(mesnacimiento)
+
+print('Gracias, Adios.')
+
+
+
+#Esta es tu fecha de nacimiento “dd-mm-aaaa”.
+#print(f'Esta es tu fecha de nacimiento {mesnacimiento} {nacimiento}')
+
+año=2023
+#Esta es tu edad
+
+# edad = (input (2023 - nacimiento))
+# print('Esta es tu edad: {edad}')
+
+#Tu nombre completo tiene _________ vocales.
+#print ('Tu nombre completo tiene: len{apellido}')
+
+#Tu nombre completo tiene _________ letras.
+
+#¿Tu edad es un carácter de tipo número? ___True____
+#if edad>0:
+ #   print('Tu edad es un carácter de tipo número')
+
+#¿Tu nombre completo es un carácter de tipo alfanumérico? ___True____
+
+#Tu edad en 10 años será ___________
+
+#La media de tu edad actual y tu edad en 20 años es_____
+
+
+
