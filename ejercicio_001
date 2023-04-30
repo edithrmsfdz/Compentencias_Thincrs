@@ -34,7 +34,7 @@ print('Gracias, Adios.')
 
 
 #Esta es tu fecha de nacimiento “dd-mm-aaaa”.
-#print(f'Esta es tu fecha de nacimiento {mesnacimiento} {nacimiento}')
+print(f'Esta es tu fecha de nacimiento {mesnacimiento} {nacimiento}')
 
 año=2023
 #Esta es tu edad
