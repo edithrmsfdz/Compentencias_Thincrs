@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+{% block header_title %}
+<head></head>
+{% endblock %}
+
+
+{% block content %}
+<body>
+    <h1>Proyecto Edith Ramos</h1>
+    
+    <h3>Perfil Profesional: RF engineer con experiencia en calidad de los entregables y manejo de cliente</h3>
+    <br>
+    <h3>Experiencia Profesional: RF engineer equipo Ericsson y Nokia</h3>
+
+</body>
+
+{{ nombre }}
+<br>
+{{ edad }}
+<br>
+
+{% endblock %}
+</html>
